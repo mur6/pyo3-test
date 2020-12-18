@@ -2,6 +2,7 @@
 name = "pyo3-test"
 version = "0.1.0"
 edition = "2018"
+authors = ["MURAKI Taichi <muraki.taichi@gmail.com>"]
 
 [lib]
 name = "pyo3_test"
